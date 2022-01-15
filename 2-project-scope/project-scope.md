@@ -1,12 +1,19 @@
-# CS 352 Project Scope
+---
+header-includes:
+  - \usepackage{setspace}
+  - \doublespacing
+fontsize: 12pt
 
-## Robert Detjens, Alex Graalum, Huy Nguyen
+numbersections: true
 
+title: CS 352 Project Scope
+author:
+  - Robert Detjens
+  - Alex Graalum
+  - Huy Nguyen
 ---
 
-## Team Details
-
-
+# Team Details
 
 |                        Team BBB |        |
 | ------------------------------: | ------ |
@@ -15,9 +22,9 @@
 |       UX Design and Prototyping | Huy    |
 |        Writing and Deliverables | Robert |
 
-## Project Description
+# Project Description
 
-### Project Vision
+## Project Vision
 
 Our team wants to build an app that will make it easy for tenants and landlords to coordinate bedbug traps. This system
 will be used for landlords to order traps to be sent to their tenants, and for the tenants to submit pictures of the
@@ -46,21 +53,21 @@ There are 3 main screens for this app, with several supporting screens for each:
   - Trap feedback page: The landlord needs a way to leave feedback on submitted traps, such as whether there is a
     problem with the picture or if it does indeed have bedbugs and what the next steps will be to resolve that.
 
-### Usability Problems
+## Usability Problems
 
 Landlords who have properties with bedbug problems need to coordinate with the tenants living there for inspections
 and/or to setup traps. While possible, having the landlord come in to your apartment every month to do an inspection is
 a big pain. This service would make it easier for landlords to send labeled traps to tenants, and for the tenants to
 send pictures of the traps back to their landlord for remote inspection.
 
-### Target Audience
+## Target Audience
 
 This app is targeted at landlords who lives in a climate with massive influxes of bedbugs, or had a previous history
 with bedbugs; i.e. landlords with known-high-risk properties. Additionally, the tenant portion of this application is
 targeted at all tenants, who may or may not be technologically savvy. Thus, the client portion should be as simple as
 possible.
 
-### Facts & Assumptions
+## Facts & Assumptions
 
 This application is meant to be used cooperatively between a landlord and a tenant. We must then assume that the
 application will be used by either someone who owns property or is renting property. Our application will need two
@@ -73,14 +80,14 @@ In order to use and register with the application, the landlords will have to pr
 in order to gain use of the landlord portion of the application, and tenants will only need to submit pictures of their
 traps.
 
-### Merit & Contributions
+## Merit & Contributions
 
 Bedbugs are hard to track, and will become a large and expensive problem if left to become a problematic infestation.
 Small occurrences can be mitigated with traps, but for a landlord to track which tenants are currently have bedbug
 problems is tricky. While traps are primarily used for mitigation, using smaller traps to catch bedbug infestations in
 their early stages can be useful in preventing a much bigger problem.
 
-### Team Success
+## Team Success
 
 In order to create a successful project, we created a plan and todo list to keep track of the progress. We will define a
 weekly deliverable for the project so we can steadily plan ahead on what needs to be done. We will be meeting up weekly
