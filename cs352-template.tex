@@ -1,0 +1,188 @@
+\documentclass[10pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp} % provide euro and other symbols
+\usepackage{amsmath,amssymb}
+\usepackage{hyperref}
+\usepackage[letterpaper, margin=1in]{geometry}
+\usepackage{graphicx}
+% \usepackage{titlesec}
+\usepackage{sectsty}
+\usepackage{xcolor}
+
+% setup header
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{} % clear default style
+\fancyfoot{} % clear default style
+\fancyhead[L]{\large \textbf{\thepage} \ \vrule \ \ $for(author)$$author$$sep$, $endfor$}
+\fancyhead[R]{\large \textit{$group$}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\headheight}{40pt}
+
+\fancypagestyle{plain}{ %
+  \setlength{\headheight}{12pt}
+  \fancyhf{} % remove everything
+  \renewcommand{\headrulewidth}{0pt} % remove lines as well
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% intentation
+\usepackage{indentfirst}
+\setlength{\parindent}{2em}
+
+% use helvetica sans-serif font
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% turn off heading numbers
+\setcounter{secnumdepth}{-\maxdimen}
+
+% italicize level 3 heading
+\subsubsectionfont{\bfseries\itshape}
+
+% less space after headings
+% \titlespacing\section{0pt}{16pt plus 4pt minus 2pt}{6pt plus 2pt minus 2pt}
+% \titlespacing\subsection{0pt}{16pt plus 4pt minus 2pt}{6pt plus 2pt minus 2pt}
+% \titlespacing\subsubsection{0pt}{10pt plus 4pt minus 2pt}{6pt plus 2pt minus 2pt}
+
+% make footnotes bigger
+\renewcommand{\footnotesize}{\fontsize{9pt}{11pt}\selectfont}
+
+
+% pandoc template stuff
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\hypersetup{
+  pdftitle={$title$},
+  pdfauthor={$for(author)$$author$$sep$; $endfor$},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}
+}
+\urlstyle{same} % disable monospaced font for URLs
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% setup citations
+$if(csl-refs)$
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+$endif$
+$if(nocite-ids)$
+\nocite{$for(nocite-ids)$$it$$sep$, $endfor$}
+$endif$
+
+$for(header-includes)$
+$header-includes$
+$endfor$
+
+\title{$title$}
+\author{$for(author)$$author$$sep$ \and $endfor$}
+\date{}
+
+\begin{document}
+\thispagestyle{plain}
+
+% \maketitle
+
+% manual title
+\textbf{ \\ \\
+  \LARGE $title$ -- $group$
+}
+
+\vspace{2em}
+
+% manual authors
+{
+  \setlength{\parskip}{0.5em}
+  $for(author)$
+  \noindent {\large \MakeUppercase{$author$}}, Oregon State University
+  $sep$
+
+  $endfor$
+}
+
+\vspace{2em}
+\hrule height 1.5px
+\vspace{1em}
+
+% abstract
+$if(abstract)$
+\noindent { \small $abstract$ }
+$endif$
+
+$if(keywords)$
+\hypertarget{keywords}{%
+\subsection{\normalsize KEYWORDS}\label{keywords}}
+
+\noindent {$for(keywords)$$keywords$$sep$; $endfor$}
+$endif$
+
+$for(include-before)$
+$include-before$
+$endfor$
+
+$if(toc)$
+$if(toc-title)$
+\renewcommand*\contentsname{$toc-title$}
+$endif$
+{
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
+$endif$
+\setcounter{tocdepth}{$toc-depth$}
+\tableofcontents
+}
+$endif$
+
+$if(lof)$
+\listoffigures
+$endif$
+
+$if(lot)$
+\listoftables
+$endif$
+
+$body$
+
+$for(include-after)$
+$include-after$
+$endfor$
+
+\end{document}

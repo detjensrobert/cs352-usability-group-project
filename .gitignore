@@ -1,1 +1,3 @@
 *.pdf
+texout/
+latex.out/
