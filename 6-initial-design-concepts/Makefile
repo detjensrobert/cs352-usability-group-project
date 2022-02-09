@@ -1,8 +1,9 @@
 CITEPROC=$(shell echo | pandoc --citeproc 2>/dev/null && echo '--citeproc' || echo '--filter=pandoc-citeproc')
-CSL=$(shell grep csl: example.md | cut -d' ' -f2)
+CSL=$(shell grep csl: *.md | cut -d' ' -f2)
+FILENAME=initial-concepts.md
 
-all: csl
-	pandoc -s example.md -o example.pdf --template=../cs352-template.tex $(CITEPROC)
+all: $(FILENAME)
+	pandoc -s $(FILENAME) -o $(FILENAME:.md=.pdf) --template=../cs352-template.tex $(CITEPROC)
 
 # ensure CSL citation style is present
 csl:
