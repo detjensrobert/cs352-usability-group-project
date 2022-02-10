@@ -25,9 +25,7 @@ keywords:
 
 The Pest Tracking System is a mobile- and web-based application that will ease the coordination between landlords and tenants when the need for pest control arises. Using a preference of either mobile push notifications, automated emails, or both, landlords and tenants can keep in contact about any pests located on the rented property and coordinate the delivery, installation, observation, and disposal of any pest traps required. The application will have an automated reminder system to remind users to keep track of when traps need to be checked or when they need to be replaced. In the case of an emergency, perhaps when a pest situation must be dealt with immediately, the tenant will be able to access a provided list of emergency pest control contacts which will be provided and maintained by the landlord.
 
-Based on interviews and observations of the tenants and landlords, our group have a better understanding about the relationship between the tenants and the landlords. From this understanding, we created three initial design concepts with different focuses on the relationship. (Add more)
-
-The app will have at least 6 screens: a login screen, a sign up screen, a home screen with updates, a setting screen with user information, a mailbox screen, a compose message screen. Each screen will
+Based on interviews and observations of the tenants and landlords, our group have a better understanding about the relationship between the tenants and the landlords. From this understanding, we created three initial design concepts with different focuses on the relationship. These were later improved upon with peer examination and feedback.
 
 # Concept 1
 
@@ -49,8 +47,6 @@ The `[Other Messages]` button on the homepage takes the user to a general conver
 
 The Report Conversation page is very similar to the `[Other Messages]` page, with an IM-like message thread. These are per-report and are created via the `[New Report]` page.
 
-![Concept 1 Mockup](images/design1.png)
-
 # Concept 2
 
 Pest Tracker Concept 2 focuses on being used by the landlord to keep track of communication between them and their tenants, tracking requests made by tenants, and keeping track of pest control appointments through the use of a calendar.
@@ -60,8 +56,6 @@ The first design choice was to replace the home button with a simple arrow to si
 The second design choice was to add a properties tab on the main page, and a properties page to provide an addition form of categorization for finding tenants by property. This will allow the landlord to views tenants filtered by which property they live in.
 
 The last design choice was to adjust the messages page. Feedback indicated the unread messages box and the messages box were confusing because of their similarities in information being presented. The two boxes will still exist, but the information will be more precise and easier to convey what is being presented.
-
-![Concept 2 Mockup](images/design2.png)
 
 # Concept 3
 
@@ -80,10 +74,14 @@ Once the user sign in or sign up, it brings the user to the `Home` page, where t
 The cog action button on top left of the screen bring the user to the `Setting` page, with a list of boxes for more functionalities. This also contains the user's full name, along with their desired profile picture for the landlord to indentify different tenants. While
 
 
-
-![Concept 3 Mockup](images/design3.png)
-
 # Concept Assessment
 
+\pagebreak
 
 # Appendix
+
+![Concept 1 Mockup](images/design1.png)
+
+![Concept 2 Mockup](images/design2.png){ width=85% }
+
+![Concept 3 Mockup](images/design3.png)
