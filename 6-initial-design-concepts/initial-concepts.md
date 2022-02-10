@@ -67,12 +67,17 @@ The concept 3 focuses on streamlining the experience for a tenant to navigate th
 
 - The last suggestion from the peer review was to include a previous report screen. From the feedback, many reviewers were confused about the `Saved` button, and this indicate that this is unnecessary functionality. The previous report would allow the users to see previous report that sent to the landlords.
 
-The redesigned concept now consists total of 6 different screens: `Log in`, `Sign up`, `Inbox`, `Setting`, `Home` and `Mail`. The initial screen -- `Log in` -- has 2 buttons for signing to the existing user, which lead the user to `Home`, and signing up as new user, leading the user to `Sign up`. There are text boxes, with different colors, that has clear text for users.
+The redesigned concept now consists total of 6 different screens: `Log in`, `Sign up`, `Previous Reports`, `Setting`, `Home` and `Mail`. The initial screen -- `Log in` -- has 2 buttons for signing to the existing user, which lead the user to `Home`, and signing up as new user, leading the user to `Sign up`. There are text boxes, with different colors, that has clear text for users.
 
 Once the user sign in or sign up, it brings the user to the `Home` page, where the user can view any reminders and current's note for the day. There are 3 action buttons in the `Home` screen:
 
-The cog action button on top left of the screen bring the user to the `Setting` page, with a list of boxes for more functionalities. This also contains the user's full name, along with their desired profile picture for the landlord to indentify different tenants. While
+- The cog action button on top left of the screen bring the user to the `Setting` page, with a list of boxes for more soon-to-be-added functionalities, ranging from editing information to help for application. This also contains the user's full name, along with their desired profile picture for the landlord to indentify different tenants. While in the `Setting` screen, there are 2 other action buttons: the back arrow and the `Saved Reports` button. The back arrow will bring the user back to the `Home` screen, while the `Saved Reports` button will bring the user to `Previous Reports` screen.
 
+- The mailbox icon buttons bring the user to the `Previous Reports` page, which contains previously submitted reports. This screen shows all of the past submitted reports, ordered by date. Each card shows the date, type of pest, thumbnail of the first image, and the text of the initial report.
+
+- The `(+)` button on the `Home` brings the user to the `Mail` page, with a text entry box for the tenant to add the description, type of pest, and picture to their landlord.
+
+![Concept 3 Mockup](images/design3.png)
 
 # Concept Assessment
 
