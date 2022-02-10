@@ -77,8 +77,6 @@ Once the user sign in or sign up, it brings the user to the `Home` page, where t
 
 - The `(+)` button on the `Home` brings the user to the `Mail` page, with a text entry box for the tenant to add the description, type of pest, and picture to their landlord.
 
-![Concept 3 Mockup](images/design3.png)
-
 # Concept Assessment
 
 \pagebreak
