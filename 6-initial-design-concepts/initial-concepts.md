@@ -32,6 +32,15 @@ The app will have at least 6 screens: a login screen, a sign up screen, a home s
 
 # Concept 1
 
+This concept focuses on streamlining the experience for a tenant to submit a new pest report to their landlord. Based on class feedback, the initial design has been revised with the following changes:
+
+- The original design implied that new users had to take a new picture through the app in order to submit a report. Peer feedback from the first discussion pointed out that using a camera icon for the new report button implied that taking a picture was the only option, and users would not be able to previously-taken photos or a description. One reviewer suggested that the plus from the second design would work better instead of a camera, and that is what is used in this design.
+
+- It was also unclear for another peer reviewer that the camera button on the landing page also went to the new report section. That design clashed with their mental assumption of what the camera icon meant, and did not match up with the actual action of starting a new report. This has also been improved by switching the camera to a plus.
+
+- Another suggestion from the peer review was to include a dropdown for common pests for the new report screen. This would allow a user to select from a list of preexisting pests in the area with clear images, so that the user can still submit a clear report even if they were not able to get a picture of it in time.
+
+![Concept 1 Mockup](images/design1.png)
 
 # Concept 2
 Pest Tracker Concept 2 focuses on being used by the landlord to keep track of communication between them and their tenants, tracking requests made by tenants, and keeping track of pest control appointments through the use of a calendar.
