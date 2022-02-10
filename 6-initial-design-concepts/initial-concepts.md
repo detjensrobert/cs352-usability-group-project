@@ -32,10 +32,20 @@ The app will have at least 6 screens: a login screen, a sign up screen, a home s
 
 # Concept 1
 
+
 # Concept 2
+Pest Tracker Concept 2 focuses on being used by the landlord to keep track of communication between them and their tenants, tracking requests made by tenants, and keeping track of pest control appointments through the use of a calendar.
+
+The first design choice is ...
+
+The second design choice is ...
+
+The last design choice is ...
 
 # Concept 3
 
+
 # Concept Assessment
+
 
 # Appendix
