@@ -59,7 +59,9 @@ The first design choice was to replace the home button with a simple arrow to si
 
 The second design choice was to add a properties tab on the main page, and a properties page to provide an addition form of categorization for finding tenants by property. This will allow the landlord to views tenants filtered by which property they live in.
 
-The last design choice was to adjust the messages page. Feedback indicated the unread messages box and the messages box were confusing because of their similarities in information being presented. The two boxes will still exist, but the information will be more precise and easier to convey what information is present.
+The last design choice was to adjust the messages page. Feedback indicated the unread messages box and the messages box were confusing because of their similarities in information being presented. The two boxes will still exist, but the information will be more precise and easier to convey what is being presented.
+
+![Concept 2 Mockup](images/design2.png)
 
 # Concept 3
 
