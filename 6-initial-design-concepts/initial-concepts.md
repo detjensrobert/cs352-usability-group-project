@@ -79,6 +79,10 @@ Once the user sign in or sign up, it brings the user to the `Home` page, where t
 
 # Concept Assessment
 
+While all of these concepts have merit, Concept 1 is the simplest for users to understand based on our insight research from Module 4 and feedback from the peer review. Concept 2 has strengths in looking at the landlord side of things, however we feel that focusing on the client/tenant side will be more in line with the expected scope of this class. Design 3 has merit in including reminders for scheduled visits from the landlord to investigate pest reports, but it is not integrated well into the flow of the app.
+
+Based on these designs, we will be iterating on Concept 1 and focusing on the client / tenant experience rather than the landlord side of the app, as this class has a more focused scope that would not fit looking at both sides of the app. We will be adding the login / account settings flow from Concept 3 to Concept 1.
+
 \pagebreak
 
 # Appendix
