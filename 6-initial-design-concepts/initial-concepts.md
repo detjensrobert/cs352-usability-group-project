@@ -36,11 +36,11 @@ The app will have at least 6 screens: a login screen, a sign up screen, a home s
 # Concept 2
 Pest Tracker Concept 2 focuses on being used by the landlord to keep track of communication between them and their tenants, tracking requests made by tenants, and keeping track of pest control appointments through the use of a calendar.
 
-The first design choice was to replace the home button with a simple arrow to signify the "back-button". I received feedback stating the home button in the calendar and messages scenes was thought to lead to the read messages. I don't understand why, but I have replaced it with a simpler to understand icon.
+The first design choice was to replace the home button with a simple arrow to signify the "back-button". I received feedback stating the home button in the calendar and messages scenes was thought to lead to the read messages. I don't understand why, but I have replaced it with a simple to understand icon.
 
-The second design choice is ...
+The second design choice was to add a properties tab on the main page, and a properties page to provide an addition form of categorization for finding tenants by property. This will allow the landlord to views tenants filtered by which property they live in.
 
-The last design choice is ...
+The last design choice was to adjust the messages page. Feedback indicated the unread messages box and the messages box were confusing because of their similarities in information being presented. The two boxes will still exist, but the information will be more precise and easier to convey what information is present.
 
 # Concept 3
 
