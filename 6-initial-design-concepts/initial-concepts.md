@@ -65,6 +65,23 @@ The last design choice was to adjust the messages page. Feedback indicated the u
 
 # Concept 3
 
+The concept 3 focuses on streamlining the experience for a tenant to navigate the application without any unnecessary functionalities. With class's feedbacks on the concepts, the initial design has been changed as the following:
+
+- The original design contains a calendar and notes for the day functionality, which new users can see any upcoming notices. However, from the peer feedback, the landlord might not be able to assess the current state when they might have a long list of upcoming and future duties. Having the calendar and notes for the day create a gulf of evaluation. One reviewer suggested that making the "notes for the day" as the main functionality rather than having both the calendar and notes.
+
+- Another feedback is the report for the landlord from the tenants. The `To` section has been removed since the functionality is more similar to sending email. Consiidering there is only 1 landlord, there is no reason to have `To` section since the report will be send to the landlord.
+
+- The last suggestion from the peer review was to include a previous report screen. From the feedback, many reviewers were confused about the `Saved` button, and this indicate that this is unnecessary functionality. The previous report would allow the users to see previous report that sent to the landlords.
+
+The redesigned concept now consists total of 6 different screens: `Log in`, `Sign up`, `Inbox`, `Setting`, `Home` and `Mail`. The initial screen -- `Log in` -- has 2 buttons for signing to the existing user, which lead the user to `Home`, and signing up as new user, leading the user to `Sign up`. There are text boxes, with different colors, that has clear text for users.
+
+Once the user sign in or sign up, it brings the user to the `Home` page, where the user can view any reminders and current's note for the day. There are 3 action buttons in the `Home` screen:
+
+The cog action button on top left of the screen bring the user to the `Setting` page, with a list of boxes for more functionalities. This also contains the user's full name, along with their desired profile picture for the landlord to indentify different tenants. While
+
+
+
+![Concept 3 Mockup](images/design3.png)
 
 # Concept Assessment
 
