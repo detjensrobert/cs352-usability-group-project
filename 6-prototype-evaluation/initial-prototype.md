@@ -35,36 +35,38 @@ Based on interviews and observations of the tenants and landlords, our group hav
 
 **1. Login**
 
-The application starts at the login page, prompting the tenant to sign in with their phone number and password. They may also select the sign up option, or start the password recovery process.
+The application starts at the login page, prompting the tenant to sign in with their phone number/email and password. They may also choose to sign up, or go through the "forgot password" process.
 
 **2. Sign Up**
 
-The second screen is the sign up page where the tenant will provide their email address, phone number, and password. The password is entered twice to confirm the tenants password creation. There is a left facing arrow button at the top left of the page which will remove entered information and go back to the login page.
+The second screen is the sign up page, where the tenant will provide their email address, phone number, and password to create an account with the service. The password is entered twice to confirm it was entered correctly. There is a back button at the top left of the page which will clear the form and return to the login page.
 
 **3. Landing Page**
 
-The main page, which is shown after logging in, provides the tenant with options to file a new report of a pest problem, view previously reported pest problems, or access general communcation between the landlord and themselves. There is a settings button at the top right which opens the settings overlay.
+The main page, shown after logging in or when opening the app if a user is already logged in, provides the tenant with quick actions for the three functions this app provides. These are: file a new report of a pest problem, view previously reported pest problems, or access general communication between the user and their landlord. There is a settings button at the top left which opens the settings overlay.
 
 **4. New Report**
 
 This screen allows the tenant to file a new pest control report. The page requires the user to provide:
-- what type of pest is being reported via a dropdown menu
-- a written description of the pest for visual aid
-- a written description of the pests location on the property
-- attached images of the pest, its location, and other relevant pictures
-The send report button is in the top right which will send the report and then return to the main page. A left facing arrow button is located at the top left of the screen which will remove entered information and return to the main page.
+
+- a written description of the issue
+- the type of pest being reported via a dropdown menu
+- the affected location(s) via a dropdown menu
+- attached images of the pest and its location
+
+A back button is located at the top left of the screen which will cancel the report and return to the main page. The confirm button in the top right creates the new report and sends it to the landlord.
 
 **5. Past Reports**
 
-The past reports screen will be an archive of the previous pest control reports that have been filed by the tenant. Each report can be selected to view the information in more detail. A left facing arrow button is located in the top left corner to return to the main page.
+The past reports screen will show the list of all previous pest control reports filed by the tenant, sorted by date. Each report can be selected to view the information in more detail. A back button in the top left corner will return the user to the main page.
 
 **6. Report Details**
 
-This screen will allow the tenant to view what information they provided for the selected past report. A left facing arrow button is located in the top left corner to return to the page which lists all past reports.
+This screen will allow the tenant to view what information they provided for the selected pest report. A back button is located in the top left corner which will return the user to the user to the Past Reports page.
 
 **7. General Chat**
 
-This screen will function like a normal texting application
+This screen will function as a chat application between the user and landlord, much like an IM messenger such as Discord or Slack. Messages from the landlord and tenant are shown in different colors as to easily distinguish between users. There is a text box at the bottom of the page for the tenant to compose new messages, and an attach button (the paperclip) will open a file selector to attach files to the message.
 
 **8. Settings**
 
@@ -76,7 +78,7 @@ This state exists between the setting state and the login page. Its purpose is t
 
 **10. Help Page**
 
-The help page is a collection of resources for the user in regards to the application. There is an FAQ that will open to a website with a list of frequently asked questions. Contact Support will open a shortcut to **do the thing**. 
+The help page is a collection of resources for the user in regards to the application. There is an FAQ that will open to a website with a list of frequently asked questions. Contact Support will open a shortcut to **do the thing**.
 
 # Usability Test Plan
 
