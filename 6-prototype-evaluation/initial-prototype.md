@@ -10,7 +10,7 @@ csl: ieee.csl
 # bibliography: example.bib
 
 abstract: |
-  For the Pest Tracker application, our team created three mobile application designs, each focused on the communication between landlords and tenants surrounding the need for pest control. Concept 1 is directed for use by the tenant and focuses on their needs for requesting pest control services from their landlord. The first concept changed some button icons and added features suggested by student feedback. The second concept is focused on use by the landlord for communication between them and their tenants as well as keeping track of pest control appointments and saving communication logs between both parties. This design was reiterated to allow easier communication of information to the user for ease of access and lessened confusion.
+  stuff
 
 keywords:
   - TENANT
@@ -32,6 +32,7 @@ Based on interviews and observations of the tenants and landlords, our group hav
 
 
 # Usability Test Plan
+
 
 
 # Heuristic Evaluation Plan
