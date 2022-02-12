@@ -15,8 +15,9 @@ abstract: |
 keywords:
   - TENANT
   - LANDLORD
-  - COMMUNICATION
   - PEST CONTROL
+  - COMMUNICATION
+  - MESSAGING
 ---
 
 \pagebreak
