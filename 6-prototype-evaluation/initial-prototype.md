@@ -10,7 +10,7 @@ csl: ieee.csl
 # bibliography: example.bib
 
 abstract: |
-  stuff
+  For the Pest Tracker application, our team created three mobile application designs, each focused on the communication between landlords and tenants surrounding the need for pest control. After multiple design iterations, we have decided on a final concept to iterate on and flesh out. This document details this improved design, and the tests we will use to evaluate its effectiveness.
 
 keywords:
   - TENANT
