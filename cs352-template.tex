@@ -64,8 +64,12 @@
 \hypersetup{
   pdftitle={$title$},
   pdfauthor={$for(author)$$author$$sep$; $endfor$},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}
+  pdfcreator={LaTeX via pandoc},
+  % hidelinks,
+  colorlinks=true,
+  urlcolor= blue,
+  linkcolor=.,
+  citecolor=.
 }
 \urlstyle{same} % disable monospaced font for URLs
 \makeatletter
