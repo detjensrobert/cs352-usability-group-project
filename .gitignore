@@ -1,3 +1,4 @@
 *.pdf
 texout/
 latex.out/
+*.csl

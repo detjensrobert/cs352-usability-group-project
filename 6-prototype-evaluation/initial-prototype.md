@@ -23,18 +23,17 @@ header-includes:
   - \usepackage{pdfpages}
 ---
 
-\pagebreak
-
 # Introduction
 
 The Pest Tracking System is a mobile- and web-based application that will ease the coordination between landlords and tenants when the need for pest control arises. Using a preference of either mobile push notifications, automated emails, or both, landlords and tenants can keep in contact about any pests located on the rented property and coordinate the delivery, installation, observation, and disposal of any pest traps required. The application will have an automated reminder system to remind users to keep track of when traps need to be checked or when they need to be replaced. In the case of an emergency, perhaps when a pest situation must be dealt with immediately, the tenant will be able to access a provided list of emergency pest control contacts which will be provided and maintained by the landlord.
 
-Based on interviews and observations of the tenants and landlords, our group have a better understanding about the relationship between the tenants and the landlords. From this understanding, we created three initial design concepts with different focuses on the relationship. These were later improved upon with peer examination and feedback.
+Based on interviews and observations of the tenants and landlords, our group have a better understanding about the relationship between the tenants and the landlords. From this understanding, we created three revised designs. After peer feedback on these, we refined and combined our initial prototypes into one concept, presented in this document.
+
+## Prototype URL
+
+[Link to interactive Figma prototype](https://www.figma.com/proto/jtvyDb0Iw8zp9G3xuGY8DW/Concept---Week-6---Evaluation)
 
 # Prototype Description
-
-
-# Prototype Screens/States
 
 ## 1. Login
 
@@ -96,8 +95,6 @@ The help page is a collection of resources for the user in regards to the applic
 # Appendix
 
 ## Design Frames
-
-[Link to interactive Figma demo](https://www.figma.com/proto/jtvyDb0Iw8zp9G3xuGY8DW/Concept---Week-6---Evaluation)
 
 \begin{minipage}{\textwidth}
   \includepdf[pages={1-},scale=0.63,nup=4x3,delta=2em 2em,offset=0px -8em,frame]{figma-frames.pdf}
