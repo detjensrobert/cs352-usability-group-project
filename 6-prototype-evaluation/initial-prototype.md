@@ -102,15 +102,11 @@ Currently, our team are planning to conduct usability testing with three subject
 
 Due to the current complication with COVID-19, the usability testing will be conducted remotely to ensure safety for both the subjects and the team. The testing will be done with the Figma prototype detailed previously in this report and the Appendix. As this will be delivered remotely, the meeting will be held through Zoom or Discord to allow for the participants and the Team to interact. Additionally, the subjects will be asked to share their screen while interacting with the prototype in order to show how they interact with the prototype. Before the evaluation, the subjects will be asked for consent to perform and record the evaluation so the team can use the session for analysis.
 
-## User Scenarios
+## User Scenarios and Tasks
 
 - Filing a new pest report
 
 - Accessing past pest reports using two different methods
-
-## User Tasks
-
-
 
 ## Research Methods
 
