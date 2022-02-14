@@ -104,7 +104,9 @@ Due to the current complication with COVID-19, the usability testing will be con
 
 ## User Scenarios
 
+- Filing a new pest report
 
+- Accessing past pest reports using two different methods
 
 ## User Tasks
 
