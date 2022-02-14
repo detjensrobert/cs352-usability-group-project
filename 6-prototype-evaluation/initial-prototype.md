@@ -84,6 +84,8 @@ The help page is a collection of resources for the user in regards to the applic
 
 # Usability Test Plan
 
+With Pest Control Communication prototype, the team will be conducting tests to observe how effective our application is, and whether our functionalities require improvments. In order to achieve this usability testing, the team will be observing how the participates react on the applications, while the participates share theirs thoughts about the application. Additionally, we will be noting any issues from the participates' experiences to ensure the application runs as smoothly as intended. We will be given them a questionaire after the participates have tested the application. The end goal of this usability testing will be improving the features that might hinder the users.
+
 
 
 # Heuristic Evaluation Plan
