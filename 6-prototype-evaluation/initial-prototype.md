@@ -31,7 +31,7 @@ Based on interviews and observations of the tenants and landlords, our group hav
 
 ## Prototype URL
 
-[Link to interactive Figma prototype](https://www.figma.com/proto/jtvyDb0Iw8zp9G3xuGY8DW/Concept---Week-6---Evaluation)
+[Link to interactive Figma prototype](https://www.figma.com/proto/jtvyDb0Iw8zp9G3xuGY8DW/Concept---Week-6---Evaluation?node-id=201%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=201%3A2)
 
 # Prototype Description
 
