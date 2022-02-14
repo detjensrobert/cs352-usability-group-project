@@ -80,16 +80,16 @@ This state exists between the setting state and the login page. Its purpose is t
 
 ## 10. Help Page
 
-The help page is a collection of resources for the user in regards to the application. There is an FAQ that will open to a website with a list of frequently asked questions. Contact Support will open a shortcut to **do the thing**.
+The help page is a collection of resources for the user in regards to the application. There is an FAQ that will open to a website with a list of frequently asked questions. Contact Support will open the user's email program to send an email to the developers.
 
 # Usability Test Plan
 
-With Pest Control Communication prototype, the team will be conducting tests to observe how effective our application is, and whether our functionalities require improvments. In order to achieve this usability testing, the team will be observing how the participates react on the applications, while the participates share theirs thoughts about the application. Additionally, we will be noting any issues from the participates' experiences to ensure the application runs as smoothly as intended. We will be given them a questionaire after the participates have tested the application. The end goal of this usability testing will be improving the features that might hinder the users. With this in mind, the team will have different components for usability testing purposes.
+To evaluate the effectiveness of this app prototype, the team will be conducting user observations to observe how effective our application is, and whether our functionalities require improvements. In order to achieve this usability testing, the team will be observing how participates react when using the prototype, and have the participants share their thoughts about the application after the evaluation. Additionally, we will record any issues from the participants' experiences in order to identify the parts of the applications that users have trouble with. The team will ask the participant a questionnaire after the evaluation. The end goal of this usability testing will be identifying the portions of the app that hinder the user experience. With this in mind, the team will have different components for usability testing purposes.
 
 **Components:**
 
 - Research Subjects
-  
+
 - User Scenarios
 
 - User Tasks
@@ -98,9 +98,9 @@ With Pest Control Communication prototype, the team will be conducting tests to 
 
 ## Research Subjects
 
-Currently, our team are planning to conduct usability testing with three subjects from our target audience. These subujects are college students, considering many are living out of campus and live under contract with the landlord. By conducting usability testing with the subjects, the constant communcation between the subjects and the team will allow accurate feedbacks on application. Subjects will be recruited throughout the university and online apps such as discord, slack, Microsoft Teams and various social media platforms.
+Currently, our team are planning to conduct usability testing with three subjects from our target audience. These subjects are college students, considering many are living out of campus and live under contract with a landlord. By conducting usability testing with the subjects, the constant communication between the subjects and the team will allow accurate feedback on the application. Subjects will be recruited through an existing university social media community on Discord.
 
-Due to the current complication with COVID-19, the usability testing will be conducted remotely to ensure safety for both subjects and the team, and the testing is through Figma prototyping platform. In the case of remote testing, the meeting will held through zoom or other communication software. Additionally, the subjects will be asked with permission to share their screen while interacting with the prototype for research purposes. Subjects will also be asked for permission to record the testing session for later results analysis.
+Due to the current complication with COVID-19, the usability testing will be conducted remotely to ensure safety for both the subjects and the team. The testing will be done with the Figma prototype detailed previously in this report and the Appendix. As this will be delivered remotely, the meeting will be held through Zoom or Discord to allow for the participants and the Team to interact. Additionally, the subjects will be asked to share their screen while interacting with the prototype in order to show how they interact with the prototype. Before the evaluation, the subjects will be asked for consent to perform and record the evaluation so the team can use the session for analysis.
 
 ## User Scenarios
 
@@ -112,15 +112,16 @@ Due to the current complication with COVID-19, the usability testing will be con
 
 ## Research Methods
 
-For testing usabilty, we will be using post-test questionaire and critical thinking as our research methods.By having the participants express their thoughts as they go along it will give us insights into the mental model they have of the application. We can see where they are successful and where they
-struggle along the way instead of relying on their recall at the end. In addition we will ask questions
-at the end to make sure we cover certain areas if the user didn’t report anything about them during
-the experiment.
+For testing usability, we will be using post-test questionnaire and critical thinking as our research methods. By having
+the participants express their thoughts as they go along it will give us insights into the mental model they have of the
+application. We can see where they are successful and where they struggle along the way instead of relying on their
+recall at the end. In addition we will ask questions at the end to make sure we cover certain areas if the user didn’t
+report anything about them during the experiment.
 
 - Post-test Questions:
 
 1. What are your thoughts on our application?
-2. If the app was on the Apple, Android, or Amazon mobile app stores, would you install it?
+2. Would you use this application if it was available for your device?
 3. What are your thoughts on our screens?
 4. How did using the app make you feel?
 5. What did you think about how long it took you to complete the tasks?
