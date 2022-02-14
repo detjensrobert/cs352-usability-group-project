@@ -84,9 +84,57 @@ The help page is a collection of resources for the user in regards to the applic
 
 # Usability Test Plan
 
-With Pest Control Communication prototype, the team will be conducting tests to observe how effective our application is, and whether our functionalities require improvments. In order to achieve this usability testing, the team will be observing how the participates react on the applications, while the participates share theirs thoughts about the application. Additionally, we will be noting any issues from the participates' experiences to ensure the application runs as smoothly as intended. We will be given them a questionaire after the participates have tested the application. The end goal of this usability testing will be improving the features that might hinder the users.
+With Pest Control Communication prototype, the team will be conducting tests to observe how effective our application is, and whether our functionalities require improvments. In order to achieve this usability testing, the team will be observing how the participates react on the applications, while the participates share theirs thoughts about the application. Additionally, we will be noting any issues from the participates' experiences to ensure the application runs as smoothly as intended. We will be given them a questionaire after the participates have tested the application. The end goal of this usability testing will be improving the features that might hinder the users. With this in mind, the team will have different components for usability testing purposes.
+
+**Components:**
+
+- Research Subjects
+  
+- User Scenarios
+
+- User Tasks
+
+- Research Methods
+
+## Research Subjects
+
+Currently, our team are planning to conduct usability testing with three subjects from our target audience. These subujects are college students, considering many are living out of campus and live under contract with the landlord. By conducting usability testing with the subjects, the constant communcation between the subjects and the team will allow accurate feedbacks on application. Subjects will be recruited throughout the university and online apps such as discord, slack, Microsoft Teams and various social media platforms.
+
+Due to the current complication with COVID-19, the usability testing will be conducted remotely to ensure safety for both subjects and the team, and the testing is through Figma prototyping platform. In the case of remote testing, the meeting will held through zoom or other communication software. Additionally, the subjects will be asked with permission to share their screen while interacting with the prototype for research purposes. Subjects will also be asked for permission to record the testing session for later results analysis.
+
+## User Scenarios
 
 
+
+## User Tasks
+
+
+
+## Research Methods
+
+For testing usabilty, we will be using post-test questionaire and critical thinking as our research methods.By having the participants express their thoughts as they go along it will give us insights into the mental model they have of the application. We can see where they are successful and where they
+struggle along the way instead of relying on their recall at the end. In addition we will ask questions
+at the end to make sure we cover certain areas if the user didn’t report anything about them during
+the experiment.
+
+- Post-test Questions:
+
+1. What are your thoughts on our application?
+2. If the app was on the Apple, Android, or Amazon mobile app stores, would you install it?
+3. What are your thoughts on our screens?
+4. How did using the app make you feel?
+5. What did you think about how long it took you to complete the tasks?
+6. Which screens did you like the best or least?
+7. If the app was designed specifically for you what would you like to see in it?
+8. If a person you know was using the app what do you think that they would like to see in it?
+9. What changes would you like to see?
+10. What would make you want to use the app more?
+11. What are your thoughts on the colors used in the app?
+12. What did you think about the icons in the app?
+13. What are your thoughts on the organization/layout of the screens?
+14. What are your thoughts on the name of the application?
+15. What do you think about the size of the font used?
+16. Is there anything else you would like to share about the app?
 
 # Heuristic Evaluation Plan
 
