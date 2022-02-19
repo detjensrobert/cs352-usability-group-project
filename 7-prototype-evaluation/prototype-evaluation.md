@@ -150,7 +150,47 @@ The design of this app should ideally not need any external documentation, being
 
 # Heuristic Evaluation
 
-stuff
+
+
+## Visibility of System Status
+
+
+
+## Match System and Real World
+
+
+
+## User Control and Freedom
+
+
+
+## Consistency and Standards
+
+
+
+## Error Prevention
+
+
+
+## Recognition, not Recall
+
+
+
+## Flexibility and Efficiency
+
+
+
+## Aesthetic and Minimalist
+
+
+
+## Recognize, Diagnose, and Recover from Errors
+
+
+
+## Help and Documentation
+
+
 
 # Evaluation Results
 
