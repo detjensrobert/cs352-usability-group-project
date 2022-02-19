@@ -34,6 +34,7 @@ Based on interviews and observations of the tenants and landlords, our group hav
 [Link to interactive Figma prototype](https://www.figma.com/proto/jtvyDb0Iw8zp9G3xuGY8DW/Concept---Week-6---Evaluation?scaling=scale-down)
 
 # Prototype Summary & Revisions
+
 The prototype hasn't changed from the last iteration, and remains usable for the desired functionality of communication between landlords and tenants regarding pest control.
 
 # Prototype Description
