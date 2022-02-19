@@ -101,6 +101,8 @@ To evaluate the effectiveness of this app prototype, the team will be conducting
 
 # Usability Test
 
+stuff
+
 # Heuristic Evaluation Plan
 
 In addition to the user testing in the Usability Test Plan, we also plan to invite multiple experts to evaluate and review the function of our application. We will be using the following heuristic evaluation criteria, adapted from @heuristics. Our experts will evaluate how well our prototype design follows these attributes:
@@ -147,9 +149,15 @@ The design of this app should ideally not need any external documentation, being
 
 # Heuristic Evaluation
 
+stuff
+
 # Evaluation Results
 
+stuff
+
 # Insights/Design Recommendations
+
+stuff
 
 \pagebreak
 
