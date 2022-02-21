@@ -100,9 +100,48 @@ To evaluate the effectiveness of this app prototype, the team will be conducting
 
 - Research Methods
 
-# Usability Test
+## Usability Test Revisions
 
-stuff
+There were no revisions made to the usability test plan. The research team conducted each step of the usability test plan as the following components below.
+
+## Research Subjects
+
+Currently, our team are planning to conduct usability testing with three subjects from our target audience. These subjects are college students, considering many are living out of campus and live under contract with a landlord. By conducting usability testing with the subjects, the constant communication between the subjects and the team will allow accurate feedback on the application. Subjects will be recruited through an existing university social media community on Discord.
+
+Due to the current complication with COVID-19, the usability testing will be conducted remotely to ensure safety for both the subjects and the team. The testing will be done with the Figma prototype detailed previously in this report and the Appendix. As this will be delivered remotely, the meeting will be held through Zoom or Discord to allow for the participants and the Team to interact. Additionally, the subjects will be asked to share their screen while interacting with the prototype in order to show how they interact with the prototype. Before the evaluation, the subjects will be asked for consent to perform and record the evaluation so the team can use the session for analysis.
+
+## User Scenarios and Tasks
+
+- Filing a new pest report
+
+- Accessing past pest reports using two different methods
+
+## Research Methods
+
+For testing usability, we will be using post-test questionnaire and critical thinking as our research methods. By having
+the participants express their thoughts as they go along it will give us insights into the mental model they have of the
+application. We can see where they are successful and where they struggle along the way instead of relying on their
+recall at the end. In addition we will ask questions at the end to make sure we cover certain areas if the user didn’t
+report anything about them during the experiment.
+
+- Post-test Questions:
+
+1. What are your thoughts on our application?
+2. Would you use this application if it was available for your device?
+3. What are your thoughts on our screens?
+4. How did using the app make you feel?
+5. What did you think about how long it took you to complete the tasks?
+6. Which screens did you like the best or least?
+7. If the app was designed specifically for you what would you like to see in it?
+8. If a person you know was using the app what do you think that they would like to see in it?
+9. What changes would you like to see?
+10. What would make you want to use the app more?
+11. What are your thoughts on the colors used in the app?
+12. What did you think about the icons in the app?
+13. What are your thoughts on the organization/layout of the screens?
+14. What are your thoughts on the name of the application?
+15. What do you think about the size of the font used?
+16. Is there anything else you would like to share about the app?
 
 # Heuristic Evaluation Plan
 
